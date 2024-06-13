@@ -17,6 +17,3 @@ pip install pillow
 pip install pandas
 pip install times
 
-
-
-C:\Users\tomdg\AppData\Local\Programs\Python\Python310
