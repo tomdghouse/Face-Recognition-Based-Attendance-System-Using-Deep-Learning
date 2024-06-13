@@ -1,3 +1,10 @@
+Create 3 Folders as mentioned below
+
+Attendance
+StudentDetails
+TrainingImages
+
+
 Install All the modules mentioned below 
 
 pip install tk-tools
